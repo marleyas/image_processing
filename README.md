@@ -17,7 +17,7 @@ The package image_processing_dio is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_dio from pypi.org
 
 ```bash
 pip install image_processing_dio
