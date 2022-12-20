@@ -23,7 +23,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_p
 pip install image_processing_dio
 ```
 
-##Usage
+## Usage
 
 ```python
 from image_processing_dio.processing import combination
